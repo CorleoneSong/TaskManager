@@ -1,6 +1,5 @@
 # TaskManager
 采用qt creator在unbuntu14.04环境下开发的任务管理器
-采用qt creator在unbuntu20.04环境下升级为多任务监视与推荐系统
 
 # 1.实验设计  
 ## 1.1.整体设计
